@@ -41,3 +41,5 @@ void stu::display( const std::string & stuName) const
         cout << "sore of " << stuName << " is " << score << endl;
     }
 }
+
+// 第二次git提交测试
